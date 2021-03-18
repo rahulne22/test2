@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-echo "time traveller" > /top/test9
+echo "time traveller" > /optp/test9
